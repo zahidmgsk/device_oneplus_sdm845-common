@@ -15,7 +15,7 @@
 #
 
 # Inherit some common Custom stuff.
-$(call inherit-product, vendor/ssos/config/common_full_phone.mk)
+$(call inherit-product, vendor/lineage/config/common_full_phone.mk)
 
 # Branding and face unlock
 SSOS_BUILD_TYPE := OFFICIAL
