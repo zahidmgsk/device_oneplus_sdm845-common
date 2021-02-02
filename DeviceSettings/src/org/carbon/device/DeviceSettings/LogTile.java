@@ -1,4 +1,4 @@
-package org.cherish.device.DeviceSettings;
+package org.carbon.device.DeviceSettings;
 
 import android.annotation.TargetApi;
 import android.app.AlertDialog;
@@ -13,7 +13,7 @@ import android.widget.Toast;
 import java.io.File;
 import java.io.IOException;
 
-import org.cherish.device.DeviceSettings.R;
+import org.carbon.device.DeviceSettings.R;
 
 @TargetApi(24)
 public class LogTile extends TileService {

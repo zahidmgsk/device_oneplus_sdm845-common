@@ -14,13 +14,13 @@
  * limitations under the License.
  */
 
-package org.cherish.device.DeviceSettings;
+package org.carbon.device.DeviceSettings;
 
 import android.content.Context;
 import android.os.AsyncTask;
 import android.widget.Toast;
 
-import org.cherish.device.DeviceSettings.R;
+import org.carbon.device.DeviceSettings.R;
 
 public abstract class SuTask<Params> extends AsyncTask<Params, Void, Boolean> {
     private Context mContext;

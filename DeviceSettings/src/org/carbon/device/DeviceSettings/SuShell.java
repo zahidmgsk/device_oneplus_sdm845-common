@@ -1,4 +1,4 @@
-package org.cherish.device.DeviceSettings;
+package org.carbon.device.DeviceSettings;
 
 import android.content.pm.PackageInfo;
 import android.content.pm.PackageManager.NameNotFoundException;

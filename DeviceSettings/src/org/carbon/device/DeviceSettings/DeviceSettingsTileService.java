@@ -15,7 +15,7 @@
 * along with this program. If not, see <http://www.gnu.org/licenses/>.
 *
 */
-package org.cherish.device.DeviceSettings;
+package org.carbon.device.DeviceSettings;
 
 import android.annotation.TargetApi;
 import android.content.Intent;
