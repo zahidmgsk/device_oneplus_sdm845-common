@@ -11,5 +11,11 @@
     "branch"      : "gallery",
     "clone-depth" : "1",
     "target_path" : "vendor/addons/oneplus/apps"
-   }
+  },
+  {
+    "repository"  : "kdrag0n/proton-clang",
+    "branch"      : "master",
+    "remote"      : "github",
+    "target_path" : "prebuilts/clang/host/linux-x86/clang-proton"   
+  }
 ]
