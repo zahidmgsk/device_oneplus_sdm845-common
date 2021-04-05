@@ -165,12 +165,12 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += oneplus-mock
 PRODUCT_BOOT_JARS += oneplus-mock
 
-# OnePlus
+# OnePlus-fwk
 PRODUCT_PACKAGES += \
-    oneplus-fwk.oneplus_msmnile
+    oneplus-fwk.oneplus_sdm845
 
 PRODUCT_BOOT_JARS += \
-    oneplus-fwk.oneplus_msmnile
+    oneplus-fwk.oneplus_sdm845
 
 # RCS
 PRODUCT_PACKAGES += \
