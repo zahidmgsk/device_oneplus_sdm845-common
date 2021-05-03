@@ -25,7 +25,7 @@
     <!-- Names of the key handler classes -->
     <string-array name="config_deviceKeyHandlerClasses" translatable="false">
         <item>com.android.touch.gestures.KeyHandler</item>
-        <item>org.aosp.device.DeviceSettings.KeyHandler</item>
+        <item>com.aosp.device.DeviceSettings.KeyHandler</item>
     </string-array>
 
     <!-- Whether device has physical tri state switch -->
@@ -37,7 +37,7 @@
     <integer name="config_alertSliderLocation">1</integer>
 
     <!-- Whether key handler sends intent when changing slider position -->
-    <string name="config_alertSliderIntent">org.aosp.device.DeviceSettings.UPDATE_SLIDER_POSITION</string>
+    <string name="config_alertSliderIntent">com.aosp.device.DeviceSettings.UPDATE_SLIDER_POSITION</string>
 
     <!-- Whether device has dash charging support -->
     <bool name="config_hasDashCharger">true</bool>
