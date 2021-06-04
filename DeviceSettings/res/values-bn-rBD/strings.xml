@@ -56,10 +56,6 @@
     <string name="proximity_sensor_title">প্রক্সিমিটি সেন্সর</string>
     <string name="pocket_gesture_title">পকেট</string>
     <string name="pocket_gesture_summary">পকেট থেকে বের করলে নোটিফিকেশন পালস</string>
-    <!-- FPS info -->
-    <string name="fps_title">FPS পরিমাপণ</string>
-    <string name="fps_info_title">FPS overlay</string>
-    <string name="fps_info_summary">ওভারলে দেখানো প্রতি সেকেন্ডে ফ্রেম্সের সাথে</string>
     <!-- Notification slider -->
     <string name="notification_slider_title">নোটিফিকেশন স্লাইডার</string>
     <string name="notification_slider_selection_dialog_title">কাজ</string>

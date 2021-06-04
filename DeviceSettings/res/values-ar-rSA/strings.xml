@@ -56,10 +56,6 @@
     <string name="proximity_sensor_title">مستشعر القرب</string>
     <string name="pocket_gesture_title">الجيب</string>
     <string name="pocket_gesture_summary">التنبيهات النبضية عند الإزالة من الجيب</string>
-    <!-- FPS info -->
-    <string name="fps_title">FPS مقيسة</string>
-    <string name="fps_info_title">FPS overlay</string>
-    <string name="fps_info_summary">إظهار تراكب مع الأطر الحالية في الثانية</string>
     <!-- Notification slider -->
     <string name="notification_slider_title">شريط تمرير الإشعارات</string>
     <string name="notification_slider_selection_dialog_title">اجراء</string>

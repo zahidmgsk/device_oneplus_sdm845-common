@@ -56,10 +56,6 @@
     <string name="proximity_sensor_title">Sensor de proximidad</string>
     <string name="pocket_gesture_title">Bolsillo</string>
     <string name="pocket_gesture_summary">Notificaciones de pulso al eliminar del bolsillo</string>
-    <!-- FPS info -->
-    <string name="fps_title">FPS medido</string>
-    <string name="fps_info_title">FPS overlay</string>
-    <string name="fps_info_summary">Mostrar superposición con fotogramas actuales por segundo</string>
     <!-- Notification slider -->
     <string name="notification_slider_title">Deslizador de notificaciones</string>
     <string name="notification_slider_selection_dialog_title">Acción</string>

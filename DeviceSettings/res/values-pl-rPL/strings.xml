@@ -56,10 +56,6 @@
     <string name="proximity_sensor_title">Czujnik zbliżeniowy</string>
     <string name="pocket_gesture_title">Kieszeń</string>
     <string name="pocket_gesture_summary">Pulsujące powiadomienia po wyjęciu z kieszeni</string>
-    <!-- FPS info -->
-    <string name="fps_title">Zmierzone FPS</string>
-    <string name="fps_info_title">Nakładka FPS</string>
-    <string name="fps_info_summary">Pokaż nakładkę z bieżącymi klatkami na sekundę</string>
     <!-- Notification slider -->
     <string name="notification_slider_title">Suwak powiadomień</string>
     <string name="notification_slider_selection_dialog_title">Akcja</string>

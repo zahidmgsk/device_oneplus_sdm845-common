@@ -56,10 +56,6 @@
     <string name="proximity_sensor_title">Sensore di prossimità</string>
     <string name="pocket_gesture_title">Tasca</string>
     <string name="pocket_gesture_summary">Notifiche lampeggianti alla rimozione dalla tasca</string>
-    <!-- FPS info -->
-    <string name="fps_title">FPS Misurati</string>
-    <string name="fps_info_title">FPS a schermo</string>
-    <string name="fps_info_summary">Mostra sovrapposizione con i fotogrammi attuali al secondo</string>
     <!-- Notification slider -->
     <string name="notification_slider_title">Cursore notifiche</string>
     <string name="notification_slider_selection_dialog_title">Azione</string>

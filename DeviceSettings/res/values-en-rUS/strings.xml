@@ -56,10 +56,6 @@
     <string name="proximity_sensor_title">Proximity sensor</string>
     <string name="pocket_gesture_title">Pocket</string>
     <string name="pocket_gesture_summary">Pulse notifications on removal from pocket</string>
-    <!-- FPS info -->
-    <string name="fps_title">Measured FPS</string>
-    <string name="fps_info_title">FPS overlay</string>
-    <string name="fps_info_summary">Show overlay with with current frames per second</string>
     <!-- Notification slider -->
     <string name="notification_slider_title">Notification slider</string>
     <string name="notification_slider_selection_dialog_title">Action</string>
