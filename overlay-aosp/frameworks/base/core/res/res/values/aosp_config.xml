@@ -62,6 +62,9 @@
     <string name="config_SmartChargingSuspendValue" translatable="false">1</string>
     <string name="config_SmartChargingResumeValue" translatable="false">0</string>
 
+    <!-- Defines custom Vendor sensor for pocket detection. -->
+    <string name="config_pocketJudgeVendorSensorName">oneplus.sensor.pocket</string>
+
     <!-- System Info -->
     <string name="config_sysCPUTemp">/sys/class/thermal/thermal_zone4/temp</string>
     <string name="config_sysBatteryTemp">/sys/class/power_supply/battery/temp</string>
