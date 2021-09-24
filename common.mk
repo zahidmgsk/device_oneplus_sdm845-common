@@ -90,7 +90,6 @@ PRODUCT_PACKAGES_DEBUG += \
 
 # Camera
 PRODUCT_PACKAGES += \
-    GCam \
     libcvface_api \
     libqti-perfd-client
 
